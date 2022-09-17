@@ -7,7 +7,7 @@ Pizza maker & delivery
 Handle customer orders over the phone or in person, deliver orders promptly, help with in store tasks as needed. 
 
 
-# Responsibilities
+## Responsibilities
 Take calls & orders,
 make pizza boxes,
 make the pizza and prepare toppings,
