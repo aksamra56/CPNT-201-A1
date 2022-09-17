@@ -1,6 +1,6 @@
 # CPNT-201-A1
 # Name
-Akashdeep Samra 
+Akash Samra 
 # Job Title
 Pizza maker & delivery
 # Description
