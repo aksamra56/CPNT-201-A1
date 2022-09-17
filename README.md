@@ -8,7 +8,7 @@ Handle customer orders over the phone or in person, deliver orders promptly, hel
 
 
 ## Responsibilities
-Take calls & orders,
-make pizza boxes,
-make the pizza and prepare toppings,
-clean dishes and go do deliveries.
+* take calls & orders,
+* make pizza boxes,
+*make the pizza and prepare toppings,
+*clean dishes and go do deliveries.
